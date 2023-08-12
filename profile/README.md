@@ -18,7 +18,7 @@
 
 - [connect-es](https://github.com/bufbuild/connect-es)
 - [connect-query](https://github.com/bufbuild/connect-query)
-- [connect-es-integration](https://github.com/bufbuild/connect-es-integration)
+- [examples-es](https://github.com/connectrpc/examples-es)
 
 ### Mobile
 

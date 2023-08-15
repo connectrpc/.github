@@ -16,8 +16,8 @@
 
 ### JavaScript and TypeScript
 
-- [connect-es](https://github.com/bufbuild/connect-es)
-- [connect-query](https://github.com/bufbuild/connect-query)
+- [connect-es](https://github.com/connectrpc/connect-es)
+- [connect-query-es](https://github.com/connectrpc/connect-query-es)
 - [examples-es](https://github.com/connectrpc/examples-es)
 
 ### Mobile

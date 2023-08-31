@@ -27,4 +27,4 @@
 
 ### Other
 
-- [connect-crosstest](https://github.com/bufbuild/connect-crosstest)
+- [connect-conformance](https://github.com/connectrpc/conformance)

@@ -27,4 +27,4 @@
 
 ### Other
 
-- [connect-conformance](https://github.com/connectrpc/conformance)
+- [conformance](https://github.com/connectrpc/conformance)

@@ -23,8 +23,9 @@
 ### Mobile
 
 - [connect-swift](https://github.com/connectrpc/connect-swift)
-- [connect-kotlin](https://github.com/bufbuild/connect-kotlin)
+- [connect-kotlin](https://github.com/connectrpc/connect-kotlin)
 
 ### Other
 
 - [conformance](https://github.com/connectrpc/conformance)
+- [envoy-demo](https://github.com/connectrpc/envoy-demo)

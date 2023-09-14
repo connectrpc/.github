@@ -22,7 +22,7 @@
 
 ### Mobile
 
-- [connect-swift](https://github.com/bufbuild/connect-swift)
+- [connect-swift](https://github.com/connectrpc/connect-swift)
 - [connect-kotlin](https://github.com/bufbuild/connect-kotlin)
 
 ### Other

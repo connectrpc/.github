@@ -1,7 +1,3 @@
-# Connect: Protobuf RPC that works
-
-Connect is a family of libraries for building browser and gRPC-compatible APIs. If you're tired of hand-written boilerplate and turned off by massive frameworks, Connect is for you.
-
 ## Links
 
 - [connectrpc.com](https://connectrpc.com) - Homepage

@@ -1,3 +1,5 @@
+**Connect is applying to join the CNCF! See [our application](https://github.com/cncf/sandbox/issues/63) for more details.**
+
 ## Links
 
 - [connectrpc.com](https://connectrpc.com) - Homepage

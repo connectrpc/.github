@@ -16,7 +16,7 @@
 - [otelconnect-go](https://github.com/connectrpc/otelconnect-go)
 - [validate-go](https://github.com/connectrpc/validate-go)
 - [examples-go](https://github.com/connectrpc/examples-go)
-- [vanguard-go])(https://github.com/connectrpc/vanguard-go)
+- [vanguard-go](https://github.com/connectrpc/vanguard-go)
 
 ### JavaScript and TypeScript
 

@@ -15,6 +15,8 @@
 - [grpchealth-go](https://github.com/connectrpc/grpchealth-go)
 - [otelconnect-go](https://github.com/connectrpc/otelconnect-go)
 - [validate-go](https://github.com/connectrpc/validate-go)
+- [cors-go](https://github.com/connectrpc/cors-go)
+- [authn-go](https://github.com/connectrpc/authn-go)
 - [examples-go](https://github.com/connectrpc/examples-go)
 - [vanguard-go](https://github.com/connectrpc/vanguard-go)
 

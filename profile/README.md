@@ -34,3 +34,7 @@
 
 - [conformance](https://github.com/connectrpc/conformance)
 - [envoy-demo](https://github.com/connectrpc/envoy-demo)
+
+## Code of conduct
+
+The Connect community abides by the [CNCF code of conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md) and [statement of values](https://github.com/cncf/foundation/blob/main/charter.md). We are open, curious, and collaborative — with each other and with other communities.

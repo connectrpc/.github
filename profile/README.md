@@ -2,7 +2,8 @@
 
 - [connectrpc.com](https://connectrpc.com) - Homepage
 - [connectrpc.com/docs](https://connectrpc.com/docs/) - Documentation
-- [Announcement blog post](https://buf.build/blog/connect-a-better-grpc)
+- [CNCF Announcement](https://buf.build/blog/connect-rpc-joins-cncf)
+- [Launch Announcement](https://buf.build/blog/connect-a-better-grpc)
 
 ## Repositories
 

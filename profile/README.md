@@ -1,5 +1,5 @@
-- [connectrpc.com](https://connectrpc.com) - Homepage
-- [connectrpc.com/docs](https://connectrpc.com/docs/) - Documentation
+- [connectrpc.com](https://connectrpc.com)
+- [Documentation](https://connectrpc.com/docs/)
 - [CNCF Announcement](https://buf.build/blog/connect-rpc-joins-cncf)
 - [Launch Announcement](https://buf.build/blog/connect-a-better-grpc)
 

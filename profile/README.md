@@ -1,5 +1,3 @@
-## Connect
-
 - [connectrpc.com](https://connectrpc.com) - Homepage
 - [connectrpc.com/docs](https://connectrpc.com/docs/) - Documentation
 - [CNCF Announcement](https://buf.build/blog/connect-rpc-joins-cncf)

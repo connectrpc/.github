@@ -15,17 +15,28 @@
 - [vanguard-go](https://github.com/connectrpc/vanguard-go)
 - [examples-go](https://github.com/connectrpc/examples-go)
 
-### JavaScript and TypeScript
+### JavaScript/TypeScript
 
 - [connect-es](https://github.com/connectrpc/connect-es)
 - [connect-query-es](https://github.com/connectrpc/connect-query-es)
 - [connect-playwright-es](https://github.com/connectrpc/connect-playwright-es)
 - [examples-es](https://github.com/connectrpc/examples-es)
 
-### Mobile
+### Python
+
+- [connect-python](https://github.com/connectrpc/connect-python)
+
+### Swift
 
 - [connect-swift](https://github.com/connectrpc/connect-swift)
+
+### Kotlin
+
 - [connect-kotlin](https://github.com/connectrpc/connect-kotlin)
+
+### Dart
+
+- [connect-dart](https://github.com/connectrpc/connect-dart)
 
 ### Other
 

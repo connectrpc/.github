@@ -38,6 +38,10 @@
 
 - [connect-dart](https://github.com/connectrpc/connect-dart)
 
+### Rust
+
+- [connect-rust](https://github.com/connectrpc/connect-rust)
+
 ### Other
 
 - [conformance](https://github.com/connectrpc/conformance)

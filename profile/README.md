@@ -20,6 +20,7 @@
 - [connect-es](https://github.com/connectrpc/connect-es)
 - [connect-query-es](https://github.com/connectrpc/connect-query-es)
 - [connect-playwright-es](https://github.com/connectrpc/connect-playwright-es)
+- [grpcreflect-es](https://github.com/connectrpc/grpcreflect-es)
 - [examples-es](https://github.com/connectrpc/examples-es)
 
 ### Python
